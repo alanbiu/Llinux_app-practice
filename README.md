@@ -1,2 +1,3 @@
 # Llinux_app-practice
-这是一个嵌入式linux应用层领域的repository
+这是一个嵌入式linux应用层领域的repository，本仓库包含了完整的Linux应用层核心模块代码实践，以及轻量级AI视觉边缘节点项目的框架搭建和基础功能实现。
+
