@@ -1,0 +1,2 @@
+# Llinux_app-practice
+这是一个嵌入式linux应用层领域的repository
